@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: #0f0f0f;
+  color: #00fff0;
+}
+
+header {
+  text-align: center;
+  padding: 50px 20px;
+  background: linear-gradient(90deg, #0f0f0f, #001f3f);
+}
+
+h1 {
+  font-size: 3em;
+  text-shadow: 0 0 10px #00fff0;
+}
+
+h2 {
+  font-size: 2em;
+  margin-top: 30px;
+  color: #00ffcc;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #001f3f;
+  color: #00fff0;
+}
